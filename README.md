@@ -1,4 +1,4 @@
-<div align="left">
+<div align="center">
 
 # Olá! Eu sou o Kaue 👋
 
@@ -98,4 +98,8 @@ Tenho 18 anos e programo há mais de uma década, desde que comecei aos 8 anos d
 
 </br>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kauedesouzaalves&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+<div align="center">
+
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=kauedesouzaalves&theme=highcontrast&hide_border=true)](https://git.io/streak-stats)
+  
+</div>

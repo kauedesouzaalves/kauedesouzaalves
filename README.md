@@ -1,6 +1,7 @@
 <div align="center">
 
 # Olá! Eu sou o Kaue 👋
+
 Sou um **Desenvolvedor Backend / Fullstack** apaixonado por sistemas em tempo real e arquitetura limpa. Aqui você acompanha meus projetos e estudos.
 
 </div>
@@ -88,8 +89,8 @@ Sou um **Desenvolvedor Backend / Fullstack** apaixonado por sistemas em tempo re
 ## 🌐 Onde me encontrar
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kauedesouzaalves)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
-[![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/seu-servidor)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauedesouzaalves)
+<!-- [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/seu-servidor) -->
 
 </br>
 

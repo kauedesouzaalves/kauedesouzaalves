@@ -1,6 +1,6 @@
 <div align="left">
 
-  # Olá! Eu sou o Kaue 👋
+# Olá! Eu sou o Kaue 👋
 
 </div>
 
@@ -93,6 +93,7 @@ Tenho 18 anos e programo há mais de uma década, desde que comecei aos 8 anos d
 
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/kauedesouzaalves)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kauedesouzaalves)
+
 <!-- [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.gg/seu-servidor) -->
 
 </br>

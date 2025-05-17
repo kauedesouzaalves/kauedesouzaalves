@@ -1,10 +1,13 @@
-<div align="center">
+<div align="left">
 
-# Olá! Eu sou o Kaue 👋
-
-Sou um **Desenvolvedor Backend / Fullstack** apaixonado por sistemas em tempo real e arquitetura limpa. Aqui você acompanha meus projetos e estudos.
+  # Olá! Eu sou o Kaue 👋
 
 </div>
+
+Tenho 18 anos e programo há mais de uma década, desde que comecei aos 8 anos de idade. Sempre fui apaixonado por programação. Atualmente, estou em transição da área de desenvolvimento de jogos na Roblox para o desenvolvimento web, pois essa área me interessa mais e me instiga muito mais do que a de jogos. A vontade de fazer essa mudança surgiu no início de abril de 2025 e, desde então, venho estudando bastante. Creio que já evoluí muito e continuarei me desenvolvendo nesse ramo!
+
+<br>
+<sub>Aqui, você poderá acompanhar meus projetos e meus estudos. 👀</sub>
 
 ## 🛠️ Habilidades
 
